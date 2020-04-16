@@ -4,7 +4,7 @@
 package SouthTeam;
 
 /**
- * @author 
+ 
  *
  */
 public class Currency{
